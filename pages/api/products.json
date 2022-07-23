@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "name": "Telsa Model S",
-    "price": "59,490",
+    "name": "krish Square",
+    "price": "399",
     "description": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates.",
-    "image_url": "https://i.imgur.com/XMe5Vae.jpg",
+    "image_url": "https://i.imgur.com/LEZQq08.png",
     "filename": "Emojis.zip",
-    "hash": "QmXF2WH75BnzYKvMsE22wRkUHVpLrF15msNW7WUgVR4Txj"
+    "hash": "QmXhtciciuaRZF9on6p2ywCmjw4R6zPM1Pi5HXGepH7Qsi"
   },
   {
     "id": 2,
-    "name": "Telsa Model Y",
-    "price": "75,800",
-    "image_url": "https://i.imgur.com/9fwIx6r.jpg",
+    "name": "Navin Reddy",
+    "price": "499",
+    "image_url": "https://i.imgur.com/zdJ4hso.png",
     "description": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
     "filename": "Desktop-ModelY.jpg",
-    "hash": "QmRHXCE1W7VK4UtUepvJPXHc4R9C8CCdwuyWsDjXkcUNTe"
+    "hash": "QmdyVBne5cyAQXyrVwPfibLxQNShN3qdEPkAFGaifWb3wC"
   }
 ]
