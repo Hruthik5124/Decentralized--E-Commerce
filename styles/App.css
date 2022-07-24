@@ -1,8 +1,8 @@
 .App {
-  height: 100vh;
+  /* height: 100vh; */
   background-color: rgb(20, 20, 20);
   text-align: center;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .container {
@@ -168,7 +168,7 @@ button:disabled {
   margin-top: 20px;
 }
 /* KeyFrames */
-@-webkit-keyframes gradient-animation {
+/* @-webkit-keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
   }
@@ -200,4 +200,5 @@ button:disabled {
   100% {
     background-position: 0% 50%;
   }
-}
+
+} */

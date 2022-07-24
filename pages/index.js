@@ -3,6 +3,7 @@ import CreateProduct from "../components/CreateProduct";
 import Product from "../components/Product";
 import HeadComponent from '../components/Head';
 
+
 import { useWallet } from "@solana/wallet-adapter-react";
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
 
@@ -18,7 +19,7 @@ const App = () => {
   
   const renderNotConnectedContainer = () => (
     <div>
-      <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" alt="emoji" />
+      <img src="https://media.giphy.com/media/bI3cX9brTVLfq/giphy.gif" alt="emoji" />
 
       <div className="button-container">
         <WalletMultiButton className="cta-button connect-wallet-button" />
@@ -77,6 +78,7 @@ const App = () => {
       </div>
     </div>
   );
+  
 };
 
 export default App;

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "The Dark Hours",
-    "price": "10.99",
+    "price": "0.05",
     "description": "A MURDER YEARS IN THE MAKING. A murder in the middle of a street party seems a senseless tragedy. But the victim had a dark past which came back to haunt him.",
     "image_url": "https://i.imgur.com/EmdxNhS.jpg",
     "filename": "Dark_Hours_By_Michael-Connelly",
@@ -11,10 +11,29 @@
   {
     "id": 2,
     "name": "The Man Who Died Twice",
-    "price": "6.59",
+    "price": "0.08",
     "image_url": "https://i.imgur.com/mOVL9gR.jpg",
     "description": "THE SECOND NOVEL IN THE RECORD-BREAKING, MILLION-COPY BESTSELLING THURSDAY MURDER CLUB SERIES BY RICHARD OSMAN",
     "filename": "The_Man_Who_Died_Twice_By_Richard-Osman",
     "hash": "QmQTpEDDMgWG157xGKvMrf242xnKrL4rinDisg3UZN5F3z"
+  },
+  {
+    "id": 3,
+    "name": "A Will and a Way",
+    "price": "6.57",
+    "image_url": "https://i.imgur.com/AU79hYj.jpg",
+    "description": "As each decade passes, and the family assemble again, one question hovers over them. Can you ever escape the repercussions of a broken promise?",
+    "filename": "A_Will_and_a_way_By_Damon-Galgut",
+    "hash": "QmdwTB3CQ38Vdc776Tu7hQoarVZyYxP3yvsDdqiJbd9DJM"
+  },
+  
+  {
+    "id": 5,
+    "name": "James Patterson",
+    "price": "13.99",
+    "image_url": "https://i.imgur.com/T74LXuJ.jpg",
+    "description": "The Women's Murder Club is back with a fiendish new case which the four friends will need to call upon all their ingenuity to solve...",
+    "filename": "ezgif.com-gif-maker (1).jpg",
+    "hash": "QmZEzAsC8yhVXwKeicwUDctSnncQTaBq6coq3qspang8SZ"
   }
 ]
